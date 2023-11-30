@@ -1,4 +1,4 @@
 # myfirstproject-demo
-This is my first git Repository.
+This is my 1st git Repository.
 <br>
 Author - Sakshi Patil
